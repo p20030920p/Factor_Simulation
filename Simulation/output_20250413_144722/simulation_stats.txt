@@ -1,0 +1,18 @@
+===== Factory Simulation Statistics =====
+Total simulation time: 40005 seconds
+Red buckets in completed area: 0/8
+Deadlock detections: 0
+Forced actions performed: 1
+Task success rate: 77.67%
+
+Material distribution by area type:
+  empty_storage: {'empty': 192, 'green': 0, 'yellow': 0, 'red': 0}
+  carding_waiting: {'empty': 8, 'green': 0, 'yellow': 0, 'red': 0}
+  carding_finished: {'empty': 0, 'green': 4, 'yellow': 0, 'red': 0}
+  drawing1_waiting: {'empty': 0, 'green': 1, 'yellow': 0, 'red': 0}
+  drawing1_finished: {'empty': 0, 'green': 0, 'yellow': 0, 'red': 0}
+  drawing2_waiting: {'empty': 0, 'green': 0, 'yellow': 0, 'red': 0}
+  drawing2_finished: {'empty': 0, 'green': 0, 'yellow': 0, 'red': 0}
+  roving_waiting: {'empty': 0, 'green': 0, 'yellow': 0, 'red': 0}
+  roving_finished: {'empty': 0, 'green': 0, 'yellow': 0, 'red': 0}
+  completed_products: {'empty': 0, 'green': 0, 'yellow': 0, 'red': 0}
